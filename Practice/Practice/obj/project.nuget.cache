@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRhBlWKD8gJZhEg1ErrLJLmBGch6ibcNYPbgo01KiJijROrOLOAshv6giwmGEGpK5qleo3ZHMP5Mj9qpHkw+hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ismay\\OneDrive\\Masaüstü\\Casting,OperatorOverloading,Indexer\\Practice\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
